@@ -1,0 +1,13 @@
+{
+    "servers": {
+        "my-mcp-server-31e7fb12": {
+            "type": "stdio",
+            "command": "dotnet",
+            "args": [
+                "run",
+                "--project",
+                "/Users/haroldasvaranauskas/Desktop/Youtube/MyMCPYoutubeDemo/MyMCPYoutubeDemo.csproj"
+            ]
+        }
+    }
+}
